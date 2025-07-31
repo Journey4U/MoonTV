@@ -121,7 +121,7 @@
          "detail": "https://hsckzy.vip"
      },
      "yutuzy": {
-         "api: "https://yutuzy10.com",
+         "api": "https://yutuzy10.com",
          "name": "玉兔资源",
          "adult": "true"
      },
@@ -172,7 +172,7 @@
     },
     "xner": {
       "api": "https://www.gdlsp.com/api/xml.php",
-      "name": '香奶儿资源|AV',
+      "name": "香奶儿资源|AV",
 	  "adult": "true"
     },
     "baip": {
