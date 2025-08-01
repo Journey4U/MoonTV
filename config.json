@@ -226,7 +226,7 @@
             "name": "白嫖资源|AV"
         },
         "lebo": {
-            "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
+            "api": "http://lbapiby.com/api.php/provide/vod/at/xml",
             "name": "乐播资源|AV"
         },
         "fedzy": {
@@ -234,11 +234,11 @@
             "name": "富二代资源|AV"
         },
         "fanhao": {
-            "api": "http://fhapi9.com/api.php/provide/vod/at/xml",
+            "api": "http://fhapi9.com/api.php/provide/vod/",
             "name": "番号资源|AV"
         },
         "dadi": {
-            "api": "http://dadiapi.com/sea_api.php",
+            "api": "https://dadiapi.com/api.php",
             "name": "大地资源|AV"
         },
         "kczy": {
@@ -252,7 +252,7 @@
         "jingpin": {
             "api": "https://www.jingpinx.com/api.php/provide/vod",
             "name": "精品资源|AV"
-        },
+        },"lebo":{"api":"https://lbapi9.com/api.php/provide/vod/","name": "乐播9"},
         "pgxdy": {
             "api": "https://www.pgxdy.com/api/xml.php",
             "name": "黄AV资源"
