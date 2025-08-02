@@ -59,13 +59,9 @@
       "api": "https://api.1080zyku.com/inc/apijson.php",
       "name": "1080资源库"
     },
-    "huya": {
-      "api": "https://www.huyaapi.com/api.php/provide/vod",
-      "name": "虎牙资源"
-    },
     "plzy": {
       "api": "https://p2100.net/api.php/provide/vod",
-      "name": "飘零资源"
+      "name": "P零资源"
     },
     "lovedan": {
       "api": "https://lovedan.net/api.php/provide/vod",
@@ -93,7 +89,7 @@
     },
     "nnzy": {
       "api": "https://api.niuniuzy.me/api.php/provide/vod",
-      "name": "牛牛资源"
+      "name": "牛🐮资源"
     },
     "yayazy": {
       "api": "https://cj.yayazy.net/api.php/provide/vod",
