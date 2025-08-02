@@ -1,3 +1,4 @@
 export const yellowWords = [
-  '龘'
+  '龘',
+'羴',
 ];
