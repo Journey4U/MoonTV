@@ -43,7 +43,7 @@
             "api": "https://subocaiji.com/api.php/provide/vod",
             "name": "速播资源"
         },
-        " fczy": {
+        "fczy": {
             "api": "https://api.fczy888.me/api.php/provide/vod",
             "name": "蜂巢资源"
         },
@@ -63,7 +63,7 @@
             "api": "https://www.huyaapi.com/api.php/provide/vod",
             "name": "虎牙资源"
         },
-        " plzy": {
+        "plzy": {
             "api": "https://p2100.net/api.php/provide/vod",
             "name": "飘零资源"
         },
@@ -83,11 +83,11 @@
             "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/xml",
             "name": "金鹰资源"
         },
-        " suoni": {
+        "suoni": {
             "api": "https://suoniapi.com/api.php/provide/vod",
             "name": "索尼资源"
         },
-        " taopian": {
+        "taopian": {
             "api": "https://taopianapi.com/cjapi/mc10/vod/json.html",
             "name": "淘片"
         },
