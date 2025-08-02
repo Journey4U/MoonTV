@@ -1,4 +1,4 @@
 export const yellowWords = [
-'你好',
-'拜拜',
+  '龘龘',
+  '鑫鑫',
 ];
