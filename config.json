@@ -29,11 +29,6 @@
       "name": "无线资源",
       "detail": "https://api.wuxianzy.net"
     },
-    "gszy": {
-      "api": "https://api.guangsuapi.com/api.php/provide/vod",
-      "name": "光速资源",
-      "detail": "https://api.guangsuapi.com"
-    },
     "qlzy": {
       "api": "https://www.qilinzyz.com/api.php/provide/vod",
       "name": "麒麟资源",
