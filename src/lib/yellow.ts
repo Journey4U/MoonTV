@@ -1,3 +1,3 @@
 export const yellowWords = [
-  '淦',
+  '龘',
 ];
