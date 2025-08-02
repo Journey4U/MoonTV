@@ -11,47 +11,47 @@
             "name": "iqiyi资源"
         },
         "baidu": {
-            " api": "https://api.apibdzy.com/api.php/provide/vod",
+            "api": "https://api.apibdzy.com/api.php/provide/vod",
             "name": "百度云资源"
         },
         "subo": {
-            " api": "https://subocaiji.com/api.php/provide/vod",
+            "api": "https://subocaiji.com/api.php/provide/vod",
             "name": "速播资源"
         },
         " fczy": {
-            " api": "https://api.fczy888.me/api.php/provide/vod",
+            "api": "https://api.fczy888.me/api.php/provide/vod",
             "name": "蜂巢资源"
         },
         "ukzy": {
-            " api": "https://api.ukuapi88.com/api.php/provide/vod",
+            "api": "https://api.ukuapi88.com/api.php/provide/vod",
             "name": "U酷资源"
         },
         "modu": {
-            " api": "https://caiji.moduapi.cc/api.php/provide/vod",
+            "api": "https://caiji.moduapi.cc/api.php/provide/vod",
             "name": "魔都资源"
         },
         "zyku": {
-            " api": "https://api.1080zyku.com/inc/apijson.php",
+            "api": "https://api.1080zyku.com/inc/apijson.php",
             "name": "1080资源库"
         },
         "huya": {
-            "  api": "https://www.huyaapi.com/api.php/provide/vod",
-            " name": "虎牙资源"
+            "api": "https://www.huyaapi.com/api.php/provide/vod",
+            "name": "虎牙资源"
         },
         " plzy": {
-            " api": "https://p2100.net/api.php/provide/vod",
-            " name": "飘零资源"
+            "api": "https://p2100.net/api.php/provide/vod",
+            "name": "飘零资源"
         },
         "lovedan": {
             "api": "https://lovedan.net/api.php/provide/vod",
-            " name": "lovedan"
+            "name": "lovedan"
         },
         "sdzy": {
-            " api": "http://sdzyapi.com/api.php/provide/vod",
-            " name": "闪电资源"
+            "api": "http://sdzyapi.com/api.php/provide/vod",
+            "name": "闪电资源"
         },
         "hongniu": {
-            " api": "https://www.hongniuzy2.com/api.php/provide/vod/at/xml",
+            "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/xml",
             "name": "红牛资源"
         },
         "jyzy": {
@@ -59,20 +59,20 @@
             "name": "金鹰资源"
         },
         " suoni": {
-            " api": "https://suoniapi.com/api.php/provide/vod",
-            " name": "索尼资源"
+            "api": "https://suoniapi.com/api.php/provide/vod",
+            "name": "索尼资源"
         },
         " taopian": {
-            " api": "https://taopianapi.com/cjapi/mc10/vod/json.html",
+            "api": "https://taopianapi.com/cjapi/mc10/vod/json.html",
             "name": "淘片"
         },
-        " nnzy": {
-            " api": "https://api.niuniuzy.me/api.php/provide/vod",
-            " name": "牛牛资源"
+        "nnzy": {
+            "api": "https://api.niuniuzy.me/api.php/provide/vod",
+            "name": "牛牛资源"
         },
         "yayazy": {
-            " api": "https://cj.yayazy.net/api.php/provide/vod",
-            " name": "丫丫资源"
+            "api": "https://cj.yayazy.net/api.php/provide/vod",
+            "name": "丫丫资源"
         },
         "heimuer": {
             "api": "https://json.heimuer.xyz/api.php/provide/vod",
