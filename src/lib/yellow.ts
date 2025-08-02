@@ -1,2 +1,4 @@
-export const yellowWords = ['你好',
-'拜拜',];
+export const yellowWords = [
+'你好',
+'拜拜',
+];
